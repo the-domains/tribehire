@@ -1,8 +1,7 @@
+name: TribeHire
+favicon: null
+layout_spectrum: 0.8273491598665714
 typography_spectrum: 0.3156076744198799
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.8273491598665714
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3727813200093806
-  brandStrength: 0.4511698151472956
-  rhythmicContrast: 0.2042953053023666
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  brandStrength: 0.4511698151472956
   lightness: 0.4406244345009327
+  saturation: 0.3727813200093806
+  rhythmicContrast: 0.2042953053023666
 purpose: []
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: tribehire
